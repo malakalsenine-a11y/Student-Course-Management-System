@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "project01\\Models\\Course.cs",
               "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\project06\\StudentManagementSystem\\project01\\Models\\Course.cs",
               "RelativeToolTip": "project01\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T11:26:13.834Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "project01\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T11:25:49.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T11:25:49.641Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "project01\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T11:25:35.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T11:25:35.07Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "project01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T11:15:27.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T11:15:27.198Z"
             }
           ]
         }

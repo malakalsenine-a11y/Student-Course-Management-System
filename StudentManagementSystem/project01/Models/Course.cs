@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace project01.Models
 {
-    internal class Course
+    public class Course
     {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public int Hours { get; set; }
+
+        public List<Student> Students { get; set; } = new List<Student>();
     }
 }
